@@ -23,7 +23,7 @@ export default function About() {
                     </h1>
                     <p className="mb-8 leading-relaxed">
                         After completing my undergrad in Business Administration, I spent 4 years in the service industry, bartending and waiting tables. 
-                        After a conversation with a mentor about switching career industries, I decided to give programming a shot. What started as a curiosity
+                        A conversation with a mentor about switching career industries sparked some enthusiasm within me, and I decided to give programming a shot. What started as a curiosity
                         and a passive, fun activity to help build some technical skills, ended as a full-fledged passion and borderline obession with the world of
                         information technology. I fell in love with creating projects, solving dynamic problems, and spent countless hours reading documentation, following tutorials,
                         and grinding out algorithms. I found myself enrolling in a bootcamp where I was able to strengthen my expertise and learn industry demanding skills and 
