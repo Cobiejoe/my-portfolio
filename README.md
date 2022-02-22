@@ -1,2 +1,1 @@
-# Find me at -
-## https://cobiejoe.netlify.app/
+# Find me at - https://cobiejoe.netlify.app/
